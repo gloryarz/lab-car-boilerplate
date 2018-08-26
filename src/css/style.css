@@ -1,0 +1,8 @@
+.bg-img {
+  position: absolute;
+  z-index: -1; }
+
+.sqr {
+  background-color: #f7b617;
+  -webkit-clip-path: polygon(30% 25%, 100% 25%, 100% 78%, 30% 78%);
+  clip-path: polygon(30% 25%, 100% 25%, 100% 78%, 30% 78%); }

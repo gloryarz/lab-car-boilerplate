@@ -1,0 +1,57 @@
+.bg-img {
+  position: absolute;
+  z-index: -1;
+}
+
+.sqr {
+  background-color: #f7b617;
+  width: 15rem;
+  height: 10rem;
+  float: right;
+  margin-top: 8rem;
+}
+
+.float-txt {
+  color: #ffffff;
+  float: left;
+}
+
+.navi {
+  height: 120px;
+  background-color: #08ac9d;
+}
+
+.photo1 {
+  height: 666px;
+  background-color: #0066d6;
+}
+
+.side1 {
+  background-color: #f7b617;
+}
+
+.second {
+  background-color: #f7b617;
+  height: 666px;
+}
+
+.square {
+  height: 550px;
+  border: 2px white solid;
+}
+
+.third {
+  background-color: #a9a9a9;
+  height: 438px;
+}
+
+.fourth {
+  background-color: #f7b617;
+  height: 834px;
+}
+
+.foot {
+  background-color: #2b2b2b;
+  height: 480px;
+}
+/*# sourceMappingURL=style.css.map */

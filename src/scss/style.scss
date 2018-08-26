@@ -1,0 +1,68 @@
+$colors: (
+    yellowc: #f7b617,
+    blackc: #2b2b2b,
+    tealc : #08ac9d,
+    grayc : #a9a9a9,
+    bluec: #0066d6,
+    whitec : #ffffff
+);
+
+.bg-img {
+    position: absolute;
+    z-index: -1;
+}
+
+.sqr {
+    background-color: map-get($colors, yellowc);
+    width: 15rem;
+    height: 10rem;
+    float: right;
+    margin-top: 8rem;
+
+}
+
+
+.float-txt {
+    color: map-get($colors, whitec);
+    float: left;
+}
+
+.navi {
+    height: 120px;
+    background-color: map-get($colors, tealc);
+}
+
+.photo1 {
+    height: 666px;
+    background-color: map-get($colors, bluec);
+}
+
+.side1 {
+    background-color: map-get($colors, yellowc);
+    
+}
+
+.second {
+    background-color: map-get($colors, yellowc);
+    height: 666px;
+}
+
+.square {
+    height: 550px;
+    border: 2px white solid;
+}
+
+.third {
+    background-color: map-get($colors, grayc);
+    height: 438px;
+}
+
+.fourth{
+    background-color: map-get($colors, yellowc);
+    height: 834px;
+}
+
+.foot {
+    background-color: map-get($colors, blackc);
+    height: 480px;
+}
